@@ -13,13 +13,6 @@ This project is a simple Library Management System implemented in Python. It all
 ## Project Structure
 
 The project consists of the following files:
-.
-├── book.py
-├── check.py
-├── main.py
-├── models.py
-├── storage.py
-└── user.py
 
 ### `models.py`
 
